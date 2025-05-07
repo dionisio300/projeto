@@ -14,7 +14,7 @@
 
 
 #Daniel
-
+print("Uma vida sem desafios não vale a pena ser vivida")
 
 
 
