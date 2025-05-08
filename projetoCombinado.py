@@ -71,15 +71,5 @@ print("Hello World")
 
 
 
-
-
-
-# Dionizio  
-
-
-
-
-
-
-# Dourado
-print("hello world")
+# Dionizio 
+print('Quero ver o que vocs printaram')
