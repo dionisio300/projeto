@@ -15,7 +15,7 @@ print('hello world')
 
 
 #Daniel
-
+print("Uma vida sem desafios não vale a pena ser vivida")
 
 
 
